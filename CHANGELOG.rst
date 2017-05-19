@@ -2,8 +2,8 @@
 Changelog for package rqt_action
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.9 (2017-05-19)
+------------------
 * Add Geoffrey Biggs as maintainer
 
 0.4.8 (2017-04-27)
